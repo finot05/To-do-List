@@ -32,6 +32,6 @@ A simple and responsive Todo List application built using **HTML**, **CSS**, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/finot05/To-do-List.git
 
 2, Open the folder and run index.html in your browser.
